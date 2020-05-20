@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LV6-Dizajn-OOP/1.0.0": {
+        "runtime": {
+          "LV6-Dizajn-OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LV6-Dizajn-OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

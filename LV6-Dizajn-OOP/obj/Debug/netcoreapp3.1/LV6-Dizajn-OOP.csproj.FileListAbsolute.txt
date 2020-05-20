@@ -1,0 +1,13 @@
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\bin\Debug\netcoreapp3.1\LV6-Dizajn-OOP.exe
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\bin\Debug\netcoreapp3.1\LV6-Dizajn-OOP.deps.json
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\bin\Debug\netcoreapp3.1\LV6-Dizajn-OOP.runtimeconfig.json
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\bin\Debug\netcoreapp3.1\LV6-Dizajn-OOP.runtimeconfig.dev.json
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\bin\Debug\netcoreapp3.1\LV6-Dizajn-OOP.dll
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\bin\Debug\netcoreapp3.1\LV6-Dizajn-OOP.pdb
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\obj\Debug\netcoreapp3.1\LV6-Dizajn-OOP.csprojAssemblyReference.cache
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\obj\Debug\netcoreapp3.1\LV6-Dizajn-OOP.csproj.CoreCompileInputs.cache
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\obj\Debug\netcoreapp3.1\LV6-Dizajn-OOP.AssemblyInfoInputs.cache
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\obj\Debug\netcoreapp3.1\LV6-Dizajn-OOP.AssemblyInfo.cs
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\obj\Debug\netcoreapp3.1\LV6-Dizajn-OOP.dll
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\obj\Debug\netcoreapp3.1\LV6-Dizajn-OOP.pdb
+D:\Doop\LV6-Dizajn-OOP\LV6-Dizajn-OOP\obj\Debug\netcoreapp3.1\LV6-Dizajn-OOP.genruntimeconfig.cache
