@@ -2,6 +2,7 @@
 using System;
 using System.Text;
 using LV6_Dizajn_OOP.Memento;
+using LV6_Dizajn_OOP.NSObserver;
 
 namespace LV6_Dizajn_OOP
 {
@@ -54,6 +55,20 @@ namespace LV6_Dizajn_OOP
 
             Console.WriteLine(getStateTdi.ToString());
 
-            }
+
+            //observer
+
+            HomeThermostat termostat1 = new HomeThermostat();
+            HomeThermostat termostat2 = new HomeThermostat();
+            CarThermostat termostatAuto = new CarThermostat();
+            WeatherStation station = new WeatherStation(44);
+
+            station.AddObserver(termostat1);
+            station.AddObserver(termostat2);
+            station.AddObserver(termostatAuto);
+
+            station.SetTemperature(22);
+            station.SetTemperature(2);
+        }
     }
 }
